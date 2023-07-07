@@ -1,0 +1,10 @@
+[{
+  "key": "break_rawcopper_action",
+  "requirement": {
+    "items": ["minecraft:raw_copper"]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:stone"
+  },
+  "lootTable": "tetra:actions/rawcoppersmash"
+}]

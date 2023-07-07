@@ -1,0 +1,10 @@
+[{
+  "key": "break_deepslatelapisore_action",
+  "requirement": {
+    "items": ["minecraft:deepslate_lapis_ore"]
+  },
+  "requiredTools": {
+    "pry": "minecraft:stone"
+  },
+  "lootTable": "tetra:actions/lapisoresmash"
+}]

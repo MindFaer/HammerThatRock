@@ -1,0 +1,10 @@
+[{
+  "key": "break_coalore_action",
+  "requirement": {
+    "items": ["minecraft:coal_ore"]
+  },
+  "requiredTools": {
+    "pickaxe_dig": "minecraft:stone"
+  },
+  "lootTable": "tetra:actions/coaloresmash"
+}]

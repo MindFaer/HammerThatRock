@@ -1,0 +1,25 @@
+{
+  "pools": [{
+    "name": "nethergoldoresmash",
+    "rolls": 1,
+    "entries": [{
+      "type": "minecraft:item",
+      "name": "minecraft:gold_nugget",
+      "weight": 10,
+      "functions": [{
+        "function": "set_count",
+        "count": {
+          "min": 2,
+          "max": 6
+        }
+      }, {
+        "function": "minecraft:apply_bonus",
+        "enchantment": "minecraft:fortune",
+        "formula": "uniform_bonus_count",
+        "parameters": {
+          "bonusMultiplier": 2
+        }
+      }]
+    }]
+  }]
+}

@@ -1,0 +1,27 @@
+{
+	"tetra.break_rawiron_action.label": "Hammer That Rock!",
+	"tetra.break_rawgold_action.label": "Hammer That Rock!",
+	"tetra.break_rawcopper_action.label": "Hammer That Rock!",
+	"tetra.break_goldore_action.label": "Mine That Ore!",
+	"tetra.break_deepslategoldore_action.label": "Mine That Ore!",
+	"tetra.break_ironore_action.label": "Mine That Ore!",
+	"tetra.break_deepslateironore_action.label": "Mine That Ore!",
+	"tetra.break_copperore_action.label": "Mine That Ore!",
+	"tetra.break_deepslatecopperore_action.label": "Mine That Ore!",
+	"tetra.break_diamondore_action.label": "Pry That Gem!",
+	"tetra.break_deepslatediamondore_action.label": "Pry That Gem!",
+	"tetra.break_emeraldore_action.label": "Pry That Gem!",
+	"tetra.break_deepslateemeraldore_action.label": "Pry That Gem!",
+	"tetra.break_lapisore_action.label": "Pry That Gem!",
+	"tetra.break_deepslatelapisore_action.label": "Pry That Gem!",
+	"tetra.break_redstoneore_action.label": "Red That Stone!",
+	"tetra.break_deepslateredstoneore_action.label": "Red That Stone!",
+	"tetra.break_quartzore_action.label": "Pry That Gem!",
+	"tetra.break_coalore_action.label": "Hammer That Rock!",
+	"tetra.break_deepslatecoalore_action.label": "Hammer That Rock!",
+	"tetra.break_nethergoldore_action.label": "Hammer That Netherack!",
+
+	"item.hammerthatrock.refinedironorechunk": "Refined Iron Ore Chunk",
+	"item.hammerthatrock.refinedgoldorechunk": "Refined Gold Ore Chunk",
+	"item.hammerthatrock.refinedcopperorechunk": "Refined Copper Ore Chunk"
+}

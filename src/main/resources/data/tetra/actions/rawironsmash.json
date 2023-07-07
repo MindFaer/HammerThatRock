@@ -1,0 +1,10 @@
+[{
+  "key": "break_rawiron_action",
+  "requirement": {
+    "items": ["minecraft:raw_iron"]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:stone"
+  },
+  "lootTable": "tetra:actions/rawironsmash"
+}]

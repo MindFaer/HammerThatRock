@@ -1,0 +1,10 @@
+[{
+  "key": "break_nethergoldore_action",
+  "requirement": {
+    "items": ["minecraft:nether_gold_ore"]
+  },
+  "requiredTools": {
+    "pickaxe_dig": "minecraft:stone"
+  },
+  "lootTable": "tetra:actions/nethergoldoresmash"
+}]

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 65,
+  "experience": 0.7,
+  "ingredient": {
+    "item": "hammerthatrock:refinedgoldorechunk"
+  },
+  "result": "minecraft:gold_ingot"
+}

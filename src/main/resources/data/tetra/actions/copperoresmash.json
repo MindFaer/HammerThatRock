@@ -1,0 +1,10 @@
+[{
+  "key": "break_copperore_action",
+  "requirement": {
+    "items": ["minecraft:copper_ore"]
+  },
+  "requiredTools": {
+    "pickaxe_dig": "minecraft:stone"
+  },
+  "lootTable": "tetra:actions/copperoresmash"
+}]

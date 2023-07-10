@@ -21,7 +21,44 @@
 	"tetra.break_deepslatecoalore_action.label": "Hammer That Rock!",
 	"tetra.break_nethergoldore_action.label": "Hammer That Netherack!",
 
+	"tetra.break_zincore_action.label": "Mine That Ore!",
+	"tetra.break_deepslatezincore_action.label": "Mine That Ore!",
+	"tetra.break_rawzinc_action.label": "Hammer That Rock!",
+
+	"tetra.break_rawdesh_action.label": "Hammer That Rock!",
+	"tetra.break_rawostrum_action.label": "Hammer That Rock!",
+	"tetra.break_rawcalorite_action.label": "Hammer That Rock!",
+	"tetra.break_deepslatecaloriteore_action.label": "Mine That Ore!",
+	"tetra.break_deepslatedeshore_action.label": "Mine That Ore!",
+	"tetra.break_deepslateiceshardore_action.label": "Mine That Ore!",
+	"tetra.break_deepslateostrumore_action.label": "Mine That Ore!",
+	"tetra.break_glaciocoalore_action.label": "Mine That Ore!",
+	"tetra.break_glaciocopperore_action.label": "Mine That Ore!",
+	"tetra.break_glacioiceshardore_action.label": "Mine That Ore!",
+	"tetra.break_glacioironore_action.label": "Mine That Ore!",
+	"tetra.break_glaciolapisore_action.label": "Pry That Gem!",
+	"tetra.break_marsdiamondore_action.label": "Pry That Gem!",
+	"tetra.break_marsiceshardore_action.label": "Mine That Ore!",
+	"tetra.break_marsironore_action.label": "Mine That Ore!",
+	"tetra.break_marsostrumore_action.label": "Mine That Ore!",
+	"tetra.break_mercuryironore_action.label": "Mine That Ore!",
+	"tetra.break_mooncheeseore_action.label": "Mine That Ore!",
+	"tetra.break_moondeshore_action.label": "Mine That Ore!",
+	"tetra.break_mooniceshardore_action.label": "Mine That Ore!",
+	"tetra.break_moonironore_action.label": "Mine That Ore!",
+	"tetra.break_venuscaloriteore_action.label": "Mine That Ore!",
+	"tetra.break_venuscoalore_action.label": "Mine That Ore!",
+	"tetra.break_venusdiamondore_action.label": "Pry That Gem!",
+	"tetra.break_venusgoldore_action.label": "Mine That Ore!",
+
 	"item.hammerthatrock.refinedironorechunk": "Refined Iron Ore Chunk",
 	"item.hammerthatrock.refinedgoldorechunk": "Refined Gold Ore Chunk",
-	"item.hammerthatrock.refinedcopperorechunk": "Refined Copper Ore Chunk"
+	"item.hammerthatrock.refinedcopperorechunk": "Refined Copper Ore Chunk",
+
+	"item.hammerthatrock.refinedzincorechunk": "Refined Zinc Ore Chunk",
+
+	"item.hammerthatrock.refineddeshorechunk": "Refined Desh Ore Chunk",
+	"item.hammerthatrock.refinedcaloriteorechunk": "Refined Calorite Ore Chunk",
+	"item.hammerthatrock.refinedostrumorechunk": "Refined Ostrum Ore Chunk"
+
 }

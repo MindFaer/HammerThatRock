@@ -1,0 +1,10 @@
+[{
+  "key": "break_deepslatezincore_action",
+  "requirement": {
+    "items": ["create:deepslate_zinc_ore"]
+  },
+  "requiredTools": {
+    "pickaxe_dig": "minecraft:stone"
+  },
+  "lootTable": "tetra:actions/zincoresmash"
+}]

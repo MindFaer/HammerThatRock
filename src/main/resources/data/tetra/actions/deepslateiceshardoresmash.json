@@ -1,0 +1,10 @@
+[{
+  "key": "break_deepslateiceshardore_action",
+  "requirement": {
+    "items": ["ad_astra:deepslate_ice_shard_ore"]
+  },
+  "requiredTools": {
+    "pickaxe_dig": "minecraft:stone"
+  },
+  "lootTable": "tetra:actions/iceoresmash"
+}]

@@ -1,0 +1,10 @@
+[{
+  "key": "break_rawostrum_action",
+  "requirement": {
+    "items": ["ad_astra:raw_ostrum"]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:iron"
+  },
+  "lootTable": "tetra:actions/rawostrumsmash"
+}]

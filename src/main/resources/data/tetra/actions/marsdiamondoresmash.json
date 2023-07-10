@@ -1,0 +1,10 @@
+[{
+  "key": "break_marsdiamondore_action",
+  "requirement": {
+    "items": ["ad_astra:mars_diamond_ore"]
+  },
+  "requiredTools": {
+    "pry": "minecraft:iron"
+  },
+  "lootTable": "tetra:actions/diamondoresmash"
+}]

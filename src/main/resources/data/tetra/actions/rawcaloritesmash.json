@@ -1,0 +1,10 @@
+[{
+  "key": "break_rawcalorite_action",
+  "requirement": {
+    "items": ["ad_astra:raw_calorite"]
+  },
+  "requiredTools": {
+    "hammer_dig": 5
+  },
+  "lootTable": "tetra:actions/rawcaloritesmash"
+}]

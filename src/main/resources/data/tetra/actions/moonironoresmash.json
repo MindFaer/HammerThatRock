@@ -1,0 +1,10 @@
+[{
+  "key": "break_moonironore_action",
+  "requirement": {
+    "items": ["ad_astra:moon_iron_ore"]
+  },
+  "requiredTools": {
+    "pickaxe_dig": "minecraft:stone"
+  },
+  "lootTable": "tetra:actions/ironoresmash"
+}]

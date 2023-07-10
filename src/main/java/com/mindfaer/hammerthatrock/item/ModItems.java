@@ -19,6 +19,14 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
     public static final RegistryObject<Item> REFINEDCOPPERORECHUNK = ITEMS.register("refinedcopperorechunk",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+    public static final RegistryObject<Item> REFINEDZINCORECHUNK = ITEMS.register("refinedzincorechunk",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+    public static final RegistryObject<Item> REFINEDDESHORECHUNK = ITEMS.register("refineddeshorechunk",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+    public static final RegistryObject<Item> REFINEDOSTRUMORECHUNK = ITEMS.register("refinedostrumorechunk",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+    public static final RegistryObject<Item> REFINEDCALORITEORECHUNK = ITEMS.register("refinedcaloriteorechunk",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

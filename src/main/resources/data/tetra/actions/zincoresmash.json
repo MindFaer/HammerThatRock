@@ -1,0 +1,10 @@
+[{
+  "key": "break_zincore_action",
+  "requirement": {
+    "items": ["create:zinc_ore"]
+  },
+  "requiredTools": {
+    "pickaxe_dig": "minecraft:stone"
+  },
+  "lootTable": "tetra:actions/zincoresmash"
+}]

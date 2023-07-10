@@ -1,0 +1,10 @@
+[{
+  "key": "break_deepslatecaloriteore_action",
+  "requirement": {
+    "items": ["ad_astra:deepslate_calorite_ore"]
+  },
+  "requiredTools": {
+    "pickaxe_dig": "minecraft:iron"
+  },
+  "lootTable": "tetra:actions/caloriteoresmash"
+}]

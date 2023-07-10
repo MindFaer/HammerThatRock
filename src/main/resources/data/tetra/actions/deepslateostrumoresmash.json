@@ -1,0 +1,10 @@
+[{
+  "key": "break_deepslateostrumore_action",
+  "requirement": {
+    "items": ["ad_astra:deepslate_ostrum_ore"]
+  },
+  "requiredTools": {
+    "pickaxe_dig": "minecraft:iron"
+  },
+  "lootTable": "tetra:actions/ostrumoresmash"
+}]

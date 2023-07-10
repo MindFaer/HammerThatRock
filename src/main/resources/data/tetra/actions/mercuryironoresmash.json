@@ -1,0 +1,10 @@
+[{
+  "key": "break_mercuryironore_action",
+  "requirement": {
+    "items": ["ad_astra:mercury_iron_ore"]
+  },
+  "requiredTools": {
+    "pickaxe_dig": "minecraft:stone"
+  },
+  "lootTable": "tetra:actions/ironoresmash"
+}]
